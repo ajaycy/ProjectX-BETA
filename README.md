@@ -1,4 +1,4 @@
-# ProjectX-Alpha
+# ProjectX-BETA
 Welcome to ProjectX! This is an early prototype with some experimental code. 
 
 ## Developer Note:
